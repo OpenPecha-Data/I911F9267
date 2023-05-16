@@ -1,0 +1,19 @@
+id: I911F9267
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:38.167044
+last_modified: 2023-01-04 11:31:38.167060
+source_metadata:
+  collections:
+  - Chögyal Pakpa Lodrö Gyaltsen
+  - Works of Tibetan Masters
+bases:
+  43C1:
+    title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of Great
+      Compassion & Mahāmudrā in Union'
+    base_file: 43C1.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
